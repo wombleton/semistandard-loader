@@ -1,0 +1,31 @@
+{
+  "name": "semistandard-loader",
+  "version": "0.0.1",
+  "description": "Lint webpack builds with Flet/semistandard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "semistandard index.js && echo 'looks ok.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wombleton/semistandard-loader.git%22.git"
+  },
+  "keywords": [
+    "webpack",
+    "eslint",
+    "lint",
+    "eshint",
+    "semistandard"
+  ],
+  "author": "Rowan Crawford <wombleton@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wombleton/semistandard-loader.git%22/issues"
+  },
+  "homepage": "https://github.com/wombleton/semistandard-loader.git%22#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.11",
+    "object-assign": "^4.0.1",
+    "semistandard": "^7.0.2"
+  }
+}
