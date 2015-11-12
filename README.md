@@ -1,4 +1,4 @@
-# standard-loader
+# semistandard-loader
 
 webpack loader for linting your code with [Flet/semistandard](https://github.com/Flet/semistandard)
 
