@@ -1,6 +1,6 @@
 # standard-loader
 
-webpack loader for linting your code with [feross/standard](https://github.com/feross/standard)
+webpack loader for linting your code with [Flet/semistandard](https://github.com/Flet/semistandard)
 
 ## Usage
 
@@ -22,7 +22,7 @@ const config = {
       ...
     ]
   },
-  standard: {
+  semistandard: {
     // config options passed to standard e.g.
     parser: 'babel-eslint'
   }
