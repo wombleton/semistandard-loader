@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/wombleton/semistandard-loader.git%22#readme",
   "dependencies": {
-    "loader-utils": "^0.2.11",
-    "object-assign": "^4.0.1",
-    "semistandard": "^7.0.2"
+    "loader-utils": "0.2.16",
+    "object-assign": "4.1.0",
+    "semistandard": "9.1.0"
   }
 }
